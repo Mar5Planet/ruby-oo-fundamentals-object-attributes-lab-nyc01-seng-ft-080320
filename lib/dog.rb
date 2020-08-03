@@ -6,4 +6,7 @@ class Dog
   end 
   
   #defining getter method 
+  def name 
+    @name 
+  end 
 end
