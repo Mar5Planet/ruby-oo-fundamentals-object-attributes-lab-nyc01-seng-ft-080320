@@ -8,4 +8,6 @@ class Person
   def job= (person_job)
     @job = person_job
   end 
+  
+  #defining getter method
 end 
