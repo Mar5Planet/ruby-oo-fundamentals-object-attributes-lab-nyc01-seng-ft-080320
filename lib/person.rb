@@ -10,4 +10,6 @@ class Person
   end 
   
   #defining getter method
+  def name 
+  end 
 end 
