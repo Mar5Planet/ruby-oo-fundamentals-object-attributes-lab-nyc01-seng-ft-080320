@@ -11,6 +11,7 @@ class Person
   
   #defining getter method
   def name 
+    @name
   end 
   
   def job 
