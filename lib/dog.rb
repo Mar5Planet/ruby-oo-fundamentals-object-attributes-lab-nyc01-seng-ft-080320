@@ -5,5 +5,5 @@ class Dog
     @name = dog_name
   end 
   
-  
+  #defining getter method 
 end
